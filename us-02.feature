@@ -12,4 +12,4 @@ Scenario 02: El usuario/invitado busca descargar la aplicación en tienda de sma
 
 Dado que el usuario/invitado se encuentra en Play Store o App Store observando la aplicación “DermApp”
 Cuando de click en la seccion “Imagenes referenciales”
-Entonces el sistema le muestra las imágenes/videos referenciales de la aplicación móvil.
+Entonces el sistema le muestra las imágenes/videos referenciales de la aplicación móvil. 
